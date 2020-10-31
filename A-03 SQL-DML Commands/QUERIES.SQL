@@ -1,4 +1,5 @@
---Using SQL DML commands with operators,functions and set operator
+-- Name: Manasi Wader
+-- Topic: Using SQL DML commands with operators,functions and set operator
 
 -- Inserting data into employee table
  insert into tbl_employee values (101,'Manasi',90000,'03-jun-2022');
