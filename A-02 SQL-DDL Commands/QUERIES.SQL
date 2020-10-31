@@ -1,4 +1,5 @@
--- Demonstrating use of SQL Objects using DDL commands:
+-- Name: Manasi Wader
+-- Topic: Demonstrating use of SQL Objects using DDL commands:
 
 --Creating Table 
 --In MySQL
