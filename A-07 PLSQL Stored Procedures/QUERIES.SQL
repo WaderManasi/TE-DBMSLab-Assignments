@@ -1,3 +1,6 @@
+-- Name: Manasi Wader
+-- Topic: Stored Procedures
+
 -- Initially create table for student marks
 create table Stud_Marks(
     STUD_NAME varchar2(20),
