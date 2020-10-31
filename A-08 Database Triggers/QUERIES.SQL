@@ -1,4 +1,6 @@
--- Statement Level Trigger
+-- Name: Manasi Wader
+-- Topic: Statement Level Trigger
+
 /* First create tbl_library table and tbl_library_audit
    Insert data in tbl_library
    While updating or deleting data from tbl_library, old value and new value will be reflected in tbl_library_audit
