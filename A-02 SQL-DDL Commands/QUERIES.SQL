@@ -1,5 +1,5 @@
 -- Name: Manasi Wader
--- Topic: Demonstrating use of SQL Objects using DDL commands:
+-- Topic: Demonstrating use of SQL Objects using DDL commands
 
 --Creating Table 
 --In MySQL
