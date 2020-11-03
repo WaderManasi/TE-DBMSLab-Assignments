@@ -8,7 +8,7 @@
 |[**UPDATE**](https://github.com/WaderManasi/DBMS_Lab_Assignments/blob/master/A-03%20SQL-DML%20Commands/QUERIES.SQL)|To UPDATE the column values of a table.|
 |[**DELETE**](https://github.com/WaderManasi/DBMS_Lab_Assignments/blob/master/A-03%20SQL-DML%20Commands/QUERIES.SQL)|To DELETE the rows or remove entire data from tables.|
 
-#### [View Queries](https://github.com/WaderManasi/DBMS_Lab_Assignments/blob/master/A-03%20SQL-DML%20Commands/QUERIES.SQL)
+#### [View Queries](https://github.com/WaderManasi/TE-DBMSLab-Assignments/blob/master/A-03%20SQL-DML%20Commands/QUERIES.SQL)
 
 
 For more info : Refer [MySQL Documentation](https://dev.mysql.com/doc/)
