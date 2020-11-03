@@ -8,7 +8,7 @@
 |**DROP**|To DROP the table by removing all its data and table structure.|
 |**TRUNCATE**|Used to remove entire data from table, but the table structure remains as it is! There is still existence of table structure.|
 
-#### [View Queries](https://github.com/WaderManasi/DBMS_Lab_Assignments/blob/master/A-02%20SQL-DDL%20Commands/QUERIES.SQL)
+#### [View Queries](https://github.com/WaderManasi/TE-DBMSLab-Assignments/blob/master/A-02%20SQL-DDL%20Commands/QUERIES.SQL)
 
 |  |  |
 |--|--|
