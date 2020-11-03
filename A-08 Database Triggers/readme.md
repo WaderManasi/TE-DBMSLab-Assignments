@@ -2,6 +2,5 @@
 |--|--|
 
 
-#### [View Queries](https://github.com/WaderManasi/DBMS_Lab_Assignments/blob/master/A-08%20Database%20Triggers/QUERIES.SQL)
+#### [View Queries](https://github.com/WaderManasi/TE-DBMSLab-Assignments/blob/master/A-08%20Database%20Triggers/QUERIES.SQL)
 
-For more info : Refer [MySQL Documentation](https://dev.mysql.com/doc/)
