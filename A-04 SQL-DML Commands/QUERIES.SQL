@@ -1,8 +1,7 @@
 -- Name: Manasi Wader
--- Topic:Joins,Subquery,Views
+-- Topic: Joins,Subquery,Views
 
 -- JOINS
-
 
 -- SUB-QUERY
 -- A subquery is used to return data that will be used in the main query as a condition to further restrict the data to be retrieved.
