@@ -1,4 +1,4 @@
--- Name: Manasi Wader
+-- Name: oshin sharma
 -- Topic: Demonstrating use of SQL Objects using DDL commands
 
 --Creating Table 
